@@ -50,6 +50,6 @@ method="post">
             </tr>
         </table>
     </form>
-  </center>
+</center>
 </body>
 </html>
