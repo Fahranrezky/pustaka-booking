@@ -46,6 +46,5 @@ dengan controller, dia hanya perlu berhubungan dengan view untuk
 mendesign tampilann aplikasi, karena back-end developer yang menangani bagian controller dan modelnya. Jadi pembagian tugas pun 
 menjadi mudah dan pengembangan aplikasi dapat di lakukan dengan
 cepat dan terstruktur.</p>
-<link rel="stylesheet" type="text/css" 
-href="http://localhost/pustaka-booking/assets/css/stylebuku.css">
+
  </section>
