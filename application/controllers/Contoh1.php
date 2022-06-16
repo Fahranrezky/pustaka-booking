@@ -7,7 +7,7 @@ class Contoh1 extends CI_Controller
  echo"Nama saya ridwan Nawawi
  Saya tingga di daerah Ciputat
  olah raga yang saya sukai adalah
- Bulutangkis";
+ Bulutangkiss";
  }
 }
 ?>
